@@ -1,11 +1,11 @@
 body {
-  padding: 25px;
-  background-color: #cfdee0;
-  color: #343e3f;
-  font-size: 25px;
-}
-
-.dark-mode {
-   background-color: #343e3f; 
-   color: #cfdee0;
-}
+    padding: 25px;
+    background-color: #cfdee0;
+    color: #343e3f;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+     background-color: #343e3f; 
+     color: #cfdee0;
+  }
