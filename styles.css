@@ -1,18 +1,27 @@
 body {
     padding: 25px;
-    background-color: #cfdee0;
-    color: #343e3f;
+    background-color: #94c4d1;
+    color: #25637b;
     font-size: 25px;
     text-align: center;
   }
   
   .dark-mode {
-     background-color: #343e3f; 
-     color: #cfdee0;
+     background-color: #25637b; 
+     color: #94c4d1;
   }
 
   button {
     display: block;
     margin: 0 auto;
     margin-bottom: 15px;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  p {
+    margin-top: 10px;
   }
