@@ -3,6 +3,7 @@ body {
     background-color: #94c4d1;
     color: #25637b;
     text-align: center;
+    border: 2px solid #25637b;
   }
   
   .dark-mode {
@@ -10,12 +11,16 @@ body {
      color: #94c4d1;
   }
 
+  div {
+    margin: 10px auto;
+  }
+
   h1 {
     font-size: 25px;
     margin: 15px auto;
   }
 
-  button {
+  .btn {
     display: block;
     margin: 0 auto;
     margin-bottom: 15px;
