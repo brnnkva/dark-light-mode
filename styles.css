@@ -2,13 +2,16 @@ body {
     padding: 25px;
     background-color: #94c4d1;
     color: #25637b;
-    font-size: 20px;
     text-align: center;
   }
   
   .dark-mode {
      background-color: #25637b; 
      color: #94c4d1;
+  }
+
+  h1 {
+    font-size: 25px;
   }
 
   button {
@@ -25,4 +28,5 @@ body {
 
   p {
     margin-top: 10px;
+    font-size: 18px;
   }
